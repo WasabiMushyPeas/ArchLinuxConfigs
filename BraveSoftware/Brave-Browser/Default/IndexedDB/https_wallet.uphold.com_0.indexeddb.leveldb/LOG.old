@@ -1,0 +1,14 @@
+2022/06/01-09:46:40.816 b8a Reusing MANIFEST /home/jack/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wallet.uphold.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/01-09:46:40.816 b8a Recovering log #28
+2022/06/01-09:46:40.816 b8a Reusing old log /home/jack/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_wallet.uphold.com_0.indexeddb.leveldb/000028.log 
+2022/06/01-09:46:40.816 b8a Delete type=2 #26
+2022/06/01-09:46:40.889 b89 Level-0 table #33: started
+2022/06/01-09:46:40.891 b89 Level-0 table #33: 2790 bytes OK
+2022/06/01-09:46:40.896 b89 Delete type=0 #28
+2022/06/01-09:46:40.896 b89 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 936 : 1
+2022/06/01-09:46:40.896 b89 Compacting 1@0 + 1@1 files
+2022/06/01-09:46:40.898 b89 Generated table #34@0: 131 keys, 3127 bytes
+2022/06/01-09:46:40.898 b89 Compacted 1@0 + 1@1 files => 3127 bytes
+2022/06/01-09:46:40.901 b89 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/01-09:46:40.901 b89 Delete type=2 #33
+2022/06/01-09:46:40.901 b89 Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 936 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
